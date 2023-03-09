@@ -7,9 +7,9 @@
 * E-mail: <ana.web.ma@gmail.com>
 
 ### About
-Love programming
-Learning React
-Want to create cool things
+* Love programming
+* Learning React
+* Want to create cool things
 
 ### Skills
 * HTML/CSS
