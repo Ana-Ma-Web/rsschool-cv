@@ -6,8 +6,9 @@
 * E-mail: <ana.web.ma@gmail.com>
 
 ### About
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Id delectus omnis nisi architecto repudiandae, earum iste pariatur voluptate natus maxime magni mollitia suscipit possimus.
+Love programming
+Learning React
+Want to create cool things
 
 ### Skills
 * HTML/CSS
@@ -32,4 +33,5 @@ function getParticipants(handshakes){
 
 ### My projects
 [Sweets](https://github.com/Ana-Ma-Web/Sweets)
+
 [Restaurant](https://github.com/Ana-Ma-Web/Restaurant)
