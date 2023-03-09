@@ -1,1 +1,1 @@
-https://Ana-Ma-Web.github.io/rsschool-cv/cv
+https://Ana-Ma-Web.github.io/rsschool-cv/
