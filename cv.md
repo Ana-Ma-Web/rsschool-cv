@@ -33,4 +33,5 @@ function getParticipants(handshakes){
 
 ### My projects
 [Restaurant](https://github.com/Ana-Ma-Web/Restaurant)
+
 [Sweets](https://github.com/Ana-Ma-Web/Sweets)
